@@ -15,7 +15,7 @@ The production pipeline frequently experienced delays due to unresolved issues, 
 - **Shading Issues:** Accounted for 50.68% of total reported problems, with common issues in texture and rendering.
 - **Rigging Issues:** Contributed to 23.29% of the issues, primarily related to animation mismatches and rig errors.
   
-![image](https://github.com/user-attachments/assets/749c6a36-fac8-43a0-b9a2-497181327d3d)
+![Dashboard](https://github.com/user-attachments/assets/7d7ef5d5-0f6c-4130-bd79-1bbce30cb946)
 
 ![image](https://github.com/user-attachments/assets/eea3a923-c22d-4e8d-800c-6c081f54fd5e)
 
