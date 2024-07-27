@@ -1,4 +1,4 @@
-# Muppet Babies Production Pipeline Optimization
+# CG TV Series Pipeline Optimisation
 
 ## Overview
 
