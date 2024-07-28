@@ -1,4 +1,6 @@
 # CG TV Series Pipeline Optimisation
+[Back to Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
+
 
 ## Overview
 
@@ -66,4 +68,6 @@ The "CG TV Series Pipeline Optimization" project significantly enhanced producti
 By implementing enhanced QA protocols and standardized communication, we improved early issue detection by 20%. These measures not only streamlined current processes but also set the stage for long-term operational excellence, ensuring timely delivery and high-quality outputs.
 
 The strategic impact of these improvements positions the team to handle future projects with greater efficiency and adaptability, fostering a culture of continuous improvement and readiness for industry challenges. This foundation will be crucial for maintaining competitiveness and innovation in a dynamic market.
+
+[Back to Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
 
