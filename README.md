@@ -54,14 +54,14 @@ Introduced a standardized issue reporting template and regular cross-departmenta
 ---
 
 ## Additional Visualizations
-
-- **Issues Over Episodes**: Shows trends in the number of issues reported over time, highlighting potential seasonal patterns or impacts from specific episodes.
   
-![improvement_issues_over_episodes](https://github.com/user-attachments/assets/8fe09658-1e3f-4c55-9abd-1ce9f2bce52f)
+![918cd9db-4379-400a-aa97-3fe360736862](https://github.com/user-attachments/assets/c7e17aa7-21d7-4676-89bc-5bb3c5c9c0f0)
 
+Data Interpretation: The graph shows an initial high count of issues, highlighting early production challenges in the Shading and Rigging departments. A gradual decline in issues reflects the positive impact of implemented solutions, such as specialized review stages and enhanced QA protocols. Occasional spikes indicate persistent challenges, emphasizing the need for continuous monitoring and adjustment to maintain a consistent production process.
 
 ## Conclusion
 
-By utilizing data analysis, we transformed the "Muppet Babies" production pipeline from a reactive to a proactive system. These data-driven insights not only streamlined our processes but also improved our ability to deliver high-quality content efficiently.
+The analysis of issue trends over episodes demonstrates that the interventions during the "CG TV Series Pipeline Optimization" project significantly improved production efficiency and quality. By moving from a reactive to a proactive system, the team was able to address issues more effectively, leading to a smoother and more efficient production workflow. This data-driven approach ensures that the lessons learned are continuously applied, fostering ongoing improvements and maintaining high standards in content delivery.
+
 
 
